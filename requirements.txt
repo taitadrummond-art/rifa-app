@@ -1,6 +1,5 @@
 streamlit
 flask
-sqlite3
 mercadopago
 python-dotenv
 requests
